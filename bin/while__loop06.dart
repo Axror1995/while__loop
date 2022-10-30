@@ -1,6 +1,6 @@
 void main() {
   int a = 1;
-  while (a < 99) {
+  while (a < 49) {
     a += 2;
     print(a);
   }
