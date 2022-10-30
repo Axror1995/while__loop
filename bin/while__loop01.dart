@@ -1,10 +1,12 @@
 void main() {
-  int a = 0;
-  while (a < 100) {
-    a += 1;
-    print('axror'+a.toString());
+  int b = 0;
+  while (b < 100) {
+    
+    b+= 1;
+    print('axror'+b.toString());
+    
   }
-  Print your name a hundred times
+  //Print your name a hundred times
 }
 
 
