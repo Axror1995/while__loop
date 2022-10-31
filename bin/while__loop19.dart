@@ -1,3 +1,11 @@
 void main() {
-  //Print the sum of odd numbers between 50 and 1000
+  int a = 51;
+  int b = 0;
+  while (a <= 1000) {
+    a++;
+    b += a;
+  }
+  print (b);
+  //Print the sum of the numbers from 50 to 1000
 }
+
