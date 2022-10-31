@@ -1,5 +1,5 @@
 void main() {
-  int a = 100;
+  int a = 99;
   while (a >= 0) {
     print(a);
     a--;
